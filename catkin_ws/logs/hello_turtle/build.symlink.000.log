@@ -1,0 +1,8 @@
+Symlinking /home/danmunozbe/Robotica/Practica3/catkin_ws/devel/share/hello_turtle/cmake/hello_turtleConfig.cmake
+Symlinking /home/danmunozbe/Robotica/Practica3/catkin_ws/devel/share/hello_turtle/cmake/hello_turtleConfig-version.cmake
+Symlinking /home/danmunozbe/Robotica/Practica3/catkin_ws/devel/lib/hello_turtle/turtleSub.py
+Symlinking /home/danmunozbe/Robotica/Practica3/catkin_ws/devel/lib/hello_turtle/cmake.lock
+Symlinking /home/danmunozbe/Robotica/Practica3/catkin_ws/devel/lib/hello_turtle/turtlePos.py
+Symlinking /home/danmunozbe/Robotica/Practica3/catkin_ws/devel/lib/hello_turtle/turtleVel.py
+Symlinking /home/danmunozbe/Robotica/Practica3/catkin_ws/devel/lib/hello_turtle/turtleSpawn.py
+Symlinking /home/danmunozbe/Robotica/Practica3/catkin_ws/devel/lib/pkgconfig/hello_turtle.pc
